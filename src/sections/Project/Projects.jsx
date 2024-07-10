@@ -10,8 +10,8 @@ const projectsArr = [
   {
     src: viberr ,
     link:'https://github.com/matanMMN',
-    h3:"project name here",
-    p:"project description here"
+    h3:"viberr",
+    p:"Streming app"
   },
 
   {
